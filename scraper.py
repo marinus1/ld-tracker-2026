@@ -3,7 +3,7 @@ import json
 import feedparser
 import requests
 
-GOOGLE_SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwEeSi2rX4DWfPIRIrfIlYDflDXxpPV8_iwHN9tCJwEJhLLh1F_kBsOJJ0G7Ned30X-3w/exec"
+GOOGLE_SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwRrQlRfR8MfQy1OOeLEZI-LFNvYrYv91ijpeT4on0Iy_aM1kQ8pVEWKor4zGU-rR69QQ/exec"
 
 SOURCES = {
     "ATD_News": "https://www.td.org/rss/news",
